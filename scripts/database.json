@@ -6374,6 +6374,27 @@
                         "short": "ソート"
                     }
                 ]
+            },
+            {
+                "key": "two_pointer",
+                "bojTagId": 80,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "두 포인터",
+                        "short": "두 포인터"
+                    },
+                    {
+                        "language": "en",
+                        "name": "two-pointer",
+                        "short": "two-pointer"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "尺取り法",
+                        "short": "尺取り"
+                    }
+                ]
             }
         ]
     },
